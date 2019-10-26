@@ -1,1 +1,3 @@
-# Massive matrix generator
+# Massive matrix 
+
+node matrix.js array_1000x1000x1000x1000 1000x1000 1000x1000
